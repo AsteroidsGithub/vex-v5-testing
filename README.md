@@ -1,5 +1,10 @@
 # Vex V5 Testing
 
 ## Downloading tools
-* *VexCode Pro* - https://www.vexrobotics.com/vexcode/install/v5
-* *Vex VScode Extension* - https://marketplace.visualstudio.com/items?itemName=VEXRobotics.vexcode
+
+- _VexCode Pro_ - https://www.vexrobotics.com/vexcode/install/v5
+- _Vex VScode Extension_ - https://marketplace.visualstudio.com/items?itemName=VEXRobotics.vexcode
+
+## Resources
+
+- _Vex V5 C++ Documentation_ - https://api.vexcode.cloud/v5
